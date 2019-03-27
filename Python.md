@@ -11,6 +11,6 @@
 |plumbum    | shell | The motto of the library is “Never write shell scripts again”, and thus it attempts to mimic the shell syntax (“shell combinators”) where it makes sense, while keeping it all Pythonic and cross-platform.|
 |Arrow | date time| Arrow is a Python library that offers a sensible, human-friendly approach to creating, manipulating, formatting and converting dates, times, and timestamps. |
 |youtube-dl | download | download data from youtube and similar sites|
-||||
+|PTable||ascii table in cli|
 ||||
 ||||
