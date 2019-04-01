@@ -12,5 +12,5 @@
 |Arrow | date time| Arrow is a Python library that offers a sensible, human-friendly approach to creating, manipulating, formatting and converting dates, times, and timestamps. |
 |youtube-dl | download | download data from youtube and similar sites|
 |PTable||ascii table in cli|
-|python-prompt-toolkit||Library for building powerful interactive command line applications in Python|
+| python-prompt-toolkit ||  Library for building powerful interactive command line applications in Python|
 ||||
