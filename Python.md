@@ -13,4 +13,4 @@
 |youtube-dl | download | download data from youtube and similar sites|
 |PTable||ascii table in cli|
 | python-prompt-toolkit ||  Library for building powerful interactive command line applications in Python|
-||||
+|npyscreen||Npyscreen is a python widget library and application framework for programming terminal or console applications|
